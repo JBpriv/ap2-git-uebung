@@ -1,2 +1,2 @@
-# _ap2-git-uebung (Konflikt gelöst)_
+# _ap2-git-uebung (Remote Änderung)_
 Praktische Übung für die AP2
